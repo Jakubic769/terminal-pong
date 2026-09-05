@@ -102,7 +102,7 @@ python pong.py        # Windows
 ## How it works
 
 The whole game is one Python file that draws the board with plain ASCII
-characters and repaints the terminal using ANSI escape codes — no
+characters and repaints the terminal using ANSI escape codes, no
 `curses`, no third-party libraries. Keyboard input is read
 non-blockingly using `msvcrt` on Windows and `termios`/`select` on
 Unix-like systems, both of which ship with Python itself. The
