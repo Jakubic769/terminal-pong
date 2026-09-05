@@ -1,6 +1,6 @@
 # 🏓 PyPong
 
-**A tiny, dependency-free Pong game that runs right in your terminal.**
+**A tiny Pong game that runs right in your terminal.**
 
 ![size](https://img.shields.io/badge/size-~6%20KB-brightgreen)
 ![dependencies](https://img.shields.io/badge/dependencies-none-blue)
