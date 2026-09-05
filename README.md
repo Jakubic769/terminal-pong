@@ -7,9 +7,11 @@
 ![python](https://img.shields.io/badge/python-3.x-yellow)
 ![platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)
 
-One file. No `pip`, no `curses` package to fetch — just the Python
-standard library. Run the installer once and it adds `pong` to your
-PATH automatically, on Linux, macOS, and Windows. No manual steps.
+One file.
+No `pip`, no `curses` package to fetch
+just the Python standard library.
+Run the installer once and it adds `pong` to your PATH automatically,
+on Linux, macOS, and Windows. No manual steps.
 
 ---
 
